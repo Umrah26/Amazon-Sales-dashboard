@@ -1,9 +1,12 @@
 # Amazon Sales Dashboard :
 #### Developed a interactive Power BI Dashboard to analyze sales data from 2011-2014, profit, quantity sold, product category performance and regional profoitability.
-## Tools: Power BI, Power Query, DAX Measures, Data Visualization, Excel.
+## Tools: Power BI (Power Query, DAX Measures, Data Visualization), Excel.
+### Created DAX measures for KPIs such as:
+#### Total Profit, Total Quantity, Total Sales.
 ## Dashboard Screenshot
 
 <img width="1511" height="725" alt="image" src="https://github.com/user-attachments/assets/4887057e-014d-4eec-97eb-d6ee6e7c1568" />
+
 ## Dashboard Analysis:
 ### Insights:
 #### 1. Phones are the highest revenue-generating category-
