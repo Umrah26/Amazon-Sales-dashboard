@@ -1,11 +1,11 @@
 # Amazon Sales Dashboard :
-#### Developed a interactive Power BI Dashboard to analyze sales data from 2011-2014, profit, quantity sold, product category performance and regional profoitability.
-## Tools: Power BI (Power Query, DAX Measures, Data Visualization), Excel.
-### Created DAX measures for KPIs such as:
+#### Developed an interactive Power BI Dashboard to analyze sales data from 2011-2014, profit, product category performance and regional profitability.
+## Tools: Power BI (Power Query, DAX and Measures, Data Visualization), Excel.
+### Created Measures such as:
 #### Total Profit, Total Quantity, Total Sales.
 ## Dashboard Screenshot
 
-<img width="1511" height="725" alt="image" src="https://github.com/user-attachments/assets/4887057e-014d-4eec-97eb-d6ee6e7c1568" />
+<img width="1511" height="531" alt="Amazon Sales Screenshot" src="https://github.com/user-attachments/assets/8c88f4da-d414-4c5f-b486-4dbfc8a36d98" />
 
 ## Dashboard Analysis:
 ### Insights:
@@ -13,7 +13,7 @@
        - Phones generated $191.7K in sales, making them the top-performing product category.
        - Chairs ($149.1K) and Storage($124.9K) are the next strongest contributors.
 #### 2. Sales performance varies significantly across categories-
-       - High performing catyegories: Phones, Chairs, Storage, Tables.
+       - High performing categories: Phones, Chairs, Storage, Tables.
        - Low-performing categories: Art($18.4K), Supplies($33.1K), and Paper(53.3K).
 #### 3. California is the most profitable state ($160.3K).
 #### 4. Several states have weak profitability -
