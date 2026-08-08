@@ -1,5 +1,5 @@
 # Amazon Sales Dashboard :
-#### Developed an interactive Power BI Dashboard to analyze sales data from 2011-2014, profit, product category performance and regional profitability.
+#### Developed an interactive Power BI dashboard using sales data from 2011-2014, with dynamic filters and slicers for State, Category and Order Date.
 ## Tools: Power BI (Power Query, DAX and Measures, Data Visualization), Excel.
 ### Created Measures such as:
 #### Total Profit, Total Quantity, Total Sales.
